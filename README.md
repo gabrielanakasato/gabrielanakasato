@@ -1,16 +1,20 @@
 # Hi! I'm Gabriela 👋 Welcome to my GitHub! 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nakasato/)
 
-## :woman: About me
-- Aspiring Data Analyst/Scientist
-- Brazilian
+I'm an aspiring data analyst/scientist from Brazil. 
 
 ## :books: I'm currently studying...
 - Data Analytics Bootcamp - Ironhack
 
-## :mortar_board: Background
-- Data Analytics Bootcamp (Ironhack - São Paulo)
+## :mortar_board: My Background
 - Degree in Civil Engineering (UFMS)
+
+## :heart: My Passions
+- Learning new things
+- Personal development
+- Data Analysis
+- Pets
+- Games
 
 <!--
 **gabrielanakasato/gabrielanakasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
