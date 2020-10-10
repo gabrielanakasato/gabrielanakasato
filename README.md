@@ -12,7 +12,7 @@ I'm an aspiring data analyst/scientist from Brazil.
 ## :heart: My Passions
 - Learning new things
 - Personal development
-- Data Analysis
+- Data Analysis | Data Science
 - Pets
 - Games
 
