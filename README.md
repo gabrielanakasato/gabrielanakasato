@@ -3,10 +3,8 @@
 
 I'm an aspiring data analyst/scientist from Brazil. 
 
-## :books: I'm currently studying...
-- Data Analytics Bootcamp - Ironhack
-
 ## :mortar_board: My Background
+- Data Analytics Bootcamp - Ironhack
 - Degree in Civil Engineering (UFMS)
 
 ## :heart: My Passions
@@ -17,6 +15,8 @@ I'm an aspiring data analyst/scientist from Brazil.
 - Games
 
 <!--
+## :books: I'm currently studying...
+- Folium
 **gabrielanakasato/gabrielanakasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
