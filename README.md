@@ -3,6 +3,12 @@
 
 I'm an aspiring data analyst/scientist from Brazil. 
 
+## :books: I'm currently studying...
+- Folium
+
+## :computer: I'm currently working on...
+- [OptRotas](https://github.com/gabrielanakasato/route-optimization)
+
 ## :mortar_board: My Background
 - Data Analytics Bootcamp - Ironhack
 - Degree in Civil Engineering (UFMS)
@@ -15,8 +21,6 @@ I'm an aspiring data analyst/scientist from Brazil.
 - Games
 
 <!--
-## :books: I'm currently studying...
-- Folium
 **gabrielanakasato/gabrielanakasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
