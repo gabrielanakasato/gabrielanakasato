@@ -11,7 +11,7 @@ I'm an aspiring data analyst/scientist from Brazil.
 
 ## :mortar_board: My Background
 - Data Analytics Bootcamp - Ironhack
-- Degree in Civil Engineering (UFMS)
+- Degree in Civil Engineering - UFMS
 
 ## :heart: My Passions
 - Learning new things
