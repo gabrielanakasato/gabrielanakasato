@@ -4,7 +4,8 @@
 I'm an aspiring data analyst/scientist from Brazil. 
 
 ## :books: I'm currently studying...
-- Folium
+- Database
+- SQL
 
 ## :computer: I'm currently working on...
 - [OptRotas](https://github.com/gabrielanakasato/route-optimization)
@@ -19,6 +20,7 @@ I'm an aspiring data analyst/scientist from Brazil.
 - Data Analysis | Data Science
 - Pets
 - Games
+- Languages
 
 <!--
 **gabrielanakasato/gabrielanakasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
