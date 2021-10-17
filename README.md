@@ -1,14 +1,10 @@
 # Hi! I'm Gabriela 👋 Welcome to my GitHub! 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nakasato/)
 
-I'm an aspiring data analyst/scientist from Brazil. 
+I'm a data analyst and an aspiring data scientist from Brazil. 
 
 ## :books: I'm currently studying...
-- Database
 - SQL
-
-## :computer: I'm currently working on...
-- [OptRotas](https://github.com/gabrielanakasato/route-optimization)
 
 ## :mortar_board: My Background
 - Data Analytics Bootcamp - Ironhack
@@ -35,4 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## :computer: I'm currently working on...
+- [OptRotas](https://github.com/gabrielanakasato/route-optimization)
+
 -->
