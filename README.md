@@ -1,12 +1,13 @@
 # Hi! I'm Gabriela 👋 Welcome to my GitHub! 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nakasato/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-aoki/)
 
-I'm a data analyst and an aspiring data scientist from Brazil. 
+I'm a data analyst from Brazil. 
 
 ## :books: I'm currently studying...
-- SQL
+- Python
 
 ## :mortar_board: My Background
+- MBA em Data Science e Analytics - USP/Esalq
 - Data Analytics Bootcamp - Ironhack
 - Degree in Civil Engineering - UFMS
 
